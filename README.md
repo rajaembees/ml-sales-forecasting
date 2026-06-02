@@ -320,7 +320,3 @@ The script will:
 | **Multiple LR (All Features)** ✅ | **$1,941** | **$1,565** | **6.79%** |
 
 **The full-feature model achieves a 33% improvement in RMSE over the simple model**, with train and test metrics closely aligned — no evidence of overfitting.
-
----
-
-*Built with reference to the [Hands-on Linear Regression](./Hands_on_Linear_Regression.ipynb) notebook.*
