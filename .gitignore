@@ -1,0 +1,22 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Timestamped reports (regenerated on each run)
+outputs/report_*.html
+outputs/report_*.md
+
+# OS
+.DS_Store
+Thumbs.db
